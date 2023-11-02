@@ -27,8 +27,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/My Code/C\#/EventoryMVP/EventoryMVP/Pages/Items/Item1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSXRlbTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My Code/C\#/EventoryMVP/EventoryMVP/Pages/Items/Item2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSXRlbTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/My Code/C\#/EventoryMVP/EventoryMVP/Pages/Loft.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9mdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My Code/C\#/EventoryMVP/EventoryMVP/Pages/Lofts/Loft1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9mdHNcTG9mdDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My Code/C\#/EventoryMVP/EventoryMVP/Pages/Lofts/Loft2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9mdHNcTG9mdDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My Code/C\#/EventoryMVP/EventoryMVP/Pages/Persons/Person1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uc1xQZXJzb24xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My Code/C\#/EventoryMVP/EventoryMVP/Pages/Persons/Person2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVyc29uc1xQZXJzb24yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/My Code/C\#/EventoryMVP/EventoryMVP/Pages/Privacy.cshtml]
