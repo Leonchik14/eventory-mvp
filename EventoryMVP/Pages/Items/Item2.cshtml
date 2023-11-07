@@ -1,7 +1,26 @@
 ﻿@page
 @model EventoryMVP.Pages.Items.Item2Model
 @{
-	ViewData["Title"] = "Item2";
+    ViewData["Title"] = "Equipment";
 }
 
-<h1>Item2</h1>
+<div class="item__back"><a asp-page="/Equipment" class="button button__style_black link">Назад</a></div>
+<div class="item">
+    <div class="item__content">
+        <h1 class="main__title">Pioneer CDJ-2000</h1>
+        <p class="item__content__description">
+            Форматы: USB/CD/DVD/MP3/WAV
+        </p>
+        <p class="item__content__description">
+            Поддержка синхронизации с RekordBox
+        </p>
+        <p class="item__content__description">
+            Аренда: 10000 руб/день
+        </p>
+        <p class="item__content__description">
+            Контакт:
+        </p>
+        <a href="" class="button button__style_purple link">owner</a>
+    </div>
+    <img class="item__image" src="~/images/dj.jpg">
+</div>

@@ -1,0 +1,6 @@
+.item {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    gap: 32px;
+    margin-top: 36px;
+}

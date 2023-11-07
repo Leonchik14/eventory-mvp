@@ -5,16 +5,46 @@
 
 }
 
-<div class="text-center">
-    <h1 class="display-4">Выберите персонал для своего мероприятия из списка ниже.</h1>
+<div class="main__header">
+    <h1 class="main__title">Персонал</h1>
 </div>
-
-
-<ul class="navbar-nav flex-grow-1">
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-page="/Persons/Person1">Person1</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-page="/Persons/Person2">Person2</a>
-        </li>
-</ul>
+<div class="card-list__container">
+    <div class="card-list">
+        <a asp-page="/Persons/Person1" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/anatoly.jpg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        Анатолий
+                    </h3>
+                </div>
+                <p class="card__details">25 лет</p>
+                <p class="card__price">Бармен</p>
+            </div>
+        </a>
+        <a asp-page="/Persons/Person2" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/helen.jpg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        Елена
+                    </h3>
+                </div>
+                <p class="card__details">20 лет</p>
+                <p class="card__price">Аниматор</p>
+            </div>
+        </a>
+        <a asp-page="/Persons/Person3" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/evgen.jpg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        Евгений
+                    </h3>
+                </div>
+                <p class="card__details">35 лет</p>
+                <p class="card__price">Охранник</p>
+            </div>
+        </a>
+    </div>
+</div>

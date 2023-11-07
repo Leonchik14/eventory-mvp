@@ -1,0 +1,13 @@
+.icon-lofts {
+    display: block;
+    position: inherit;
+    box-align: center;
+    width: 176px;
+    height: 139px;
+    background-image: url("../../images/lofts.svg");
+    background-size: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: transparent
+}

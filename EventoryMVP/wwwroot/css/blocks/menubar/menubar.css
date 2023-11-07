@@ -1,0 +1,11 @@
+.menubar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 96px;
+    background: linear-gradient(0deg, #252525 30.11%, rgba(37, 37, 37, 0.00) 72.04%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000
+}

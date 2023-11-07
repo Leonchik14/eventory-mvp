@@ -5,16 +5,46 @@
 
 }
 
-<div class="text-center">
-    <h1 class="display-4">Выберите оборудование для своего мероприятия из списка ниже.</h1>
+<div class="main__header">
+    <h1 class="main__title">Оборудование</h1>
 </div>
-
-
-<ul class="navbar-nav flex-grow-1">
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-page="/Items/Item1">Item1</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-page="/Items/Item2">Item2</a>
-        </li>
-</ul>
+<div class="card-list__container">
+    <div class="card-list">
+        <a asp-page="/Items/Item1" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/sound.jpg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        L-Acoustics K2
+                    </h3>
+                </div>
+                <p class="card__details">Звук</p>
+                <p class="card__price">9000 р/день</p>
+            </div>
+        </a>
+        <a asp-page="/Items/Item2" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/dj.jpg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        Pioneer CDJ-2000
+                    </h3>
+                </div>
+                <p class="card__details">DJ</p>
+                <p class="card__price">10000 р/день</p>
+            </div>
+        </a>
+        <a asp-page="/Items/Item3" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/generator.jpg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        Honda EP2500CX
+                    </h3>
+                </div>
+                <p class="card__details">Генератор</p>
+                <p class="card__price">2500 р/день</p>
+            </div>
+        </a>
+    </div>
+</div>

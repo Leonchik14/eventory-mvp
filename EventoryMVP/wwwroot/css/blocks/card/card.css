@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    flex-shrink: 0;
+    width: 175px;
+    height: 320px;
+    box-sizing: border-box;
+    border-radius: 32px;
+    background: linear-gradient(90deg, #252525 0%, #1E1E1E 89.46%);    
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+
+.card:hover {
+    background: linear-gradient(90deg, #363636 0%, #1E1E1E 89.46%);    
+}

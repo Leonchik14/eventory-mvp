@@ -1,0 +1,7 @@
+.button__style_purple {
+    background-color: #B845FE;
+}
+
+.button__style_purple:hover {
+    background-color: #772ca6;
+}

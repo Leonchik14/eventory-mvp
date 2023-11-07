@@ -1,7 +1,38 @@
 ﻿@page
 @model EventoryMVP.Pages.Items.Item1Model
 @{
-	ViewData["Title"] = "Item1";
+    ViewData["Title"] = "Equipment";
 }
 
-<h1>Item1</h1>
+<div class="item__back"><a asp-page="/Equipment" class="button button__style_black link">Назад</a></div>
+<div class="item">
+    <div class="item__content">
+        <h1 class="main__title">L-Acoustics K2</h1>
+        <p class="item__content__description">
+            Частотный диапазон: 35гц-20кГц
+        </p>
+        <p class="item__content__description">
+            Направленность: 110°/70°, 35°/55°
+        </p>
+        <p class="item__content__description">
+            Звуковое давление: 147db MSPL
+        </p>
+        <p class="item__content__description">
+            Мощность RMS: 2x450вт НЧ, 320вт СЧ, 160вт ВЧ
+        </p>
+        <p class="item__content__description">
+            Компоненты: НЧ 2х12", СЧ 4x6.5", ВЧ 2х3"
+        </p>
+        <p class="item__content__description">
+            Размеры, вес: 1338 х 354/286 х 400мм, 56кг
+        </p>
+        <p class="item__content__description">
+            Аренда: 9000 руб/день
+        </p>
+        <p class="item__content__description">
+            Контакт:
+        </p>
+        <a href="" class="button button__style_purple link">owner</a>
+    </div>
+    <img class="item__image" src="~/images/sound.jpg">
+</div>

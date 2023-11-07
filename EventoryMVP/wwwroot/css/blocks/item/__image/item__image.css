@@ -1,0 +1,6 @@
+.item__image {
+    width: 100%;
+    flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 24px;
+}

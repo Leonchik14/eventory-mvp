@@ -1,60 +1,54 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿<!doctype html>
+<html lang="ru">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - EventoryMVP</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/EventoryMVP.styles.css" asp-append-version="true" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Eventory | @ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/pages/index.css" type='text/css' media='all'>
 </head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">EventoryMVP</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Loft">Loft</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Equipment">Equipment</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Staff">Staff</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
+@if (ViewData["Title"] != "Home page")
+{
+<div class="menubar">
+    <div class="menubar__container">
+        @if (ViewData["Title"] == "Lofts")
+        {
+            <a asp-page="/Loft" class='button active button__style_purple link'>Лофты</a>
+        }
+        else
+        {
+            <a asp-page="/Loft" class='button button__style_gray link'>Лофты</a>
+        }
+        @if (ViewData["Title"] == "Equipment")
+        {
+            <a asp-page="/Equipment" class='button active button__style_purple link'>Оборудование</a>
+        }
+        else
+        {
+            <a asp-page="/Equipment" class='button button__style_gray link'>Оборудование</a>
+        }
+        @if (ViewData["Title"] == "Staff")
+        {
+            <a asp-page="/Staff" class='button active button__style_purple link'>Персонал</a>
+        }
+        else
+        {
+            <a asp-page="/Staff" class='button button__style_gray link'>Персонал</a>
+        }
+    </div>
+</div>
+}
+<body class="body">
+    <header class="header">
+        <nav class="nav">
+            <div class="nav__container container">
+                <a asp-page="/Index" class="link"><span class="icon-logo"></span></a>
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - EventoryMVP - <a asp-area="" asp-page="/Privacy">Privacy</a>
-        </div>
-    </footer>
-
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-
+    <main class="main container">
+        @RenderBody()
+    </main>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

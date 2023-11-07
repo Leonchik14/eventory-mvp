@@ -1,0 +1,13 @@
+.icon-logo {
+    display: block;
+    position: inherit;
+    box-align: center;
+    width: 136px;
+    height: 23px;
+    background-image: url("../../../images/logo.svg");
+    background-size: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: transparent
+}

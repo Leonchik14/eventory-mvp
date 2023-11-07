@@ -1,0 +1,15 @@
+.main__section {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    width: 302px;
+    height: 180px;
+    border-radius: 32px;
+    justify-content: center;
+    background: radial-gradient(71.98% 76.67% at 50% 23.33%, #2C2C2C 30.77%, #1B1B1B 73.21%);
+}
+
+.main__section:hover {
+    background: radial-gradient(71.98% 76.67% at 50% 23.33%, #363636 30.77%, #1B1B1B 73.21%);
+}

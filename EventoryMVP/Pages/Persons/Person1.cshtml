@@ -1,7 +1,35 @@
 ﻿@page
 @model EventoryMVP.Pages.Persons.Person1Model
 @{
-	ViewData["Title"] = "Person1";
+    ViewData["Title"] = "Staff";
 }
 
-<h1>Person1</h1>
+<div class="item__back"><a asp-page="/Staff" class="button button__style_black link">Назад</a></div>
+<div class="item">
+    <div class="item__content">
+        <h1 class="main__title">Анатолий</h1>
+        <p class="item__content__description">
+            Имя: Анатолий
+        </p>
+        <p class="item__content__description">
+            Возраст: 25 лет
+        </p>
+        <p class="item__content__description">
+            Место рождения: Город Москва, Россия
+        </p>
+        <p class="item__content__description">
+            Образование: Среднее специальное (курсы бариста)
+        </p>
+        <p class="item__content__description">
+            Опыт работы: 4 года в различных барах и кафе города
+        </p>
+        <p class="item__content__description">
+            Варить вкусный кофе - значит делать мир немного лучше
+        </p>
+        <p class="item__content__description">
+            Контакт:
+        </p>
+        <a href="https://t.me/olegenov" class="button button__style_purple link">anatoly_cofee</a>
+    </div>
+    <img class="item__image" src="~/images/anatoly.jpg">
+</div>

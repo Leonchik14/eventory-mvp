@@ -1,26 +1,57 @@
-E:\My Code\C#\EventoryMVP\EventoryMVP\bin\Debug\net6.0\appsettings.Development.json
-E:\My Code\C#\EventoryMVP\EventoryMVP\bin\Debug\net6.0\appsettings.json
-E:\My Code\C#\EventoryMVP\EventoryMVP\bin\Debug\net6.0\EventoryMVP.staticwebassets.runtime.json
-E:\My Code\C#\EventoryMVP\EventoryMVP\bin\Debug\net6.0\EventoryMVP.exe
-E:\My Code\C#\EventoryMVP\EventoryMVP\bin\Debug\net6.0\EventoryMVP.deps.json
-E:\My Code\C#\EventoryMVP\EventoryMVP\bin\Debug\net6.0\EventoryMVP.runtimeconfig.json
-E:\My Code\C#\EventoryMVP\EventoryMVP\bin\Debug\net6.0\EventoryMVP.dll
-E:\My Code\C#\EventoryMVP\EventoryMVP\bin\Debug\net6.0\EventoryMVP.pdb
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.csproj.AssemblyReference.cache
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.GeneratedMSBuildEditorConfig.editorconfig
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.AssemblyInfoInputs.cache
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.AssemblyInfo.cs
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.csproj.CoreCompileInputs.cache
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.MvcApplicationPartsAssemblyInfo.cache
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.RazorAssemblyInfo.cache
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.RazorAssemblyInfo.cs
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\staticwebassets.build.json
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\staticwebassets.development.json
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\scopedcss\bundle\EventoryMVP.styles.css
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\scopedcss\projectbundle\EventoryMVP.bundle.scp.css
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.dll
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\refint\EventoryMVP.dll
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.pdb
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\EventoryMVP.genruntimeconfig.cache
-E:\My Code\C#\EventoryMVP\EventoryMVP\obj\Debug\net6.0\ref\EventoryMVP.dll
+E:/My Code/C#/EventoryMVP/EventoryMVP/bin/Debug/net6.0/appsettings.Development.json
+E:/My Code/C#/EventoryMVP/EventoryMVP/bin/Debug/net6.0/appsettings.json
+E:/My Code/C#/EventoryMVP/EventoryMVP/bin/Debug/net6.0/EventoryMVP.staticwebassets.runtime.json
+E:/My Code/C#/EventoryMVP/EventoryMVP/bin/Debug/net6.0/EventoryMVP.exe
+E:/My Code/C#/EventoryMVP/EventoryMVP/bin/Debug/net6.0/EventoryMVP.deps.json
+E:/My Code/C#/EventoryMVP/EventoryMVP/bin/Debug/net6.0/EventoryMVP.runtimeconfig.json
+E:/My Code/C#/EventoryMVP/EventoryMVP/bin/Debug/net6.0/EventoryMVP.dll
+E:/My Code/C#/EventoryMVP/EventoryMVP/bin/Debug/net6.0/EventoryMVP.pdb
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.csproj.AssemblyReference.cache
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.GeneratedMSBuildEditorConfig.editorconfig
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.AssemblyInfoInputs.cache
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.AssemblyInfo.cs
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.csproj.CoreCompileInputs.cache
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.MvcApplicationPartsAssemblyInfo.cache
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.RazorAssemblyInfo.cache
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.RazorAssemblyInfo.cs
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/staticwebassets.build.json
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/staticwebassets.development.json
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/scopedcss/bundle/EventoryMVP.styles.css
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/scopedcss/projectbundle/EventoryMVP.bundle.scp.css
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.dll
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/refint/EventoryMVP.dll
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.pdb
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/EventoryMVP.genruntimeconfig.cache
+E:/My Code/C#/EventoryMVP/EventoryMVP/obj/Debug/net6.0/ref/EventoryMVP.dll
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/bin/Debug/net6.0/appsettings.Development.json
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/bin/Debug/net6.0/appsettings.json
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/bin/Debug/net6.0/EventoryMVP.staticwebassets.runtime.json
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/bin/Debug/net6.0/EventoryMVP
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/bin/Debug/net6.0/EventoryMVP.deps.json
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/bin/Debug/net6.0/EventoryMVP.runtimeconfig.json
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/bin/Debug/net6.0/EventoryMVP.dll
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/bin/Debug/net6.0/EventoryMVP.pdb
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.csproj.AssemblyReference.cache
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.AssemblyInfoInputs.cache
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.AssemblyInfo.cs
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.csproj.CoreCompileInputs.cache
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.MvcApplicationPartsAssemblyInfo.cache
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.RazorAssemblyInfo.cache
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.RazorAssemblyInfo.cs
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/staticwebassets/msbuild.EventoryMVP.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/staticwebassets/msbuild.build.EventoryMVP.props
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.EventoryMVP.props
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.EventoryMVP.props
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/staticwebassets.build.json
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/staticwebassets.development.json
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/scopedcss/bundle/EventoryMVP.styles.css
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/scopedcss/projectbundle/EventoryMVP.bundle.scp.css
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.dll
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/refint/EventoryMVP.dll
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.pdb
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/EventoryMVP.genruntimeconfig.cache
+/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/ref/EventoryMVP.dll

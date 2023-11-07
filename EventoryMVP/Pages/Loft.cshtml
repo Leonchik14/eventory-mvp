@@ -1,19 +1,50 @@
 ﻿@page
 @model LoftModel
 @{
-    ViewData["Title"] = "Loft";
+    ViewData["Title"] = "Lofts";
 
 }
 
-<div class="text-center">
-    <h1 class="display-4">Выберите лофт для своего мероприятия из списка ниже.</h1>
+<div class="main__header">
+    <h1 class="main__title">Лофты</h1>
 </div>
-
-<ul class="navbar-nav flex-grow-1">
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-page="/Lofts/Loft1">Loft1</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link text-dark" asp-area="" asp-page="/Lofts/Loft2">Loft2</a>
-        </li>
-</ul>
+<div class="card-list__container">
+    <div class="card-list">
+        <a asp-page="/Lofts/Loft1" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/test1.jpeg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        INFOLOFTMSK
+                    </h3>
+                </div>
+                <p class="card__details">м. Бауманская</p>
+                <p class="card__price">2000 р/час</p>
+            </div>
+        </a>
+        <a asp-page="/Lofts/Loft2" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/test2.jpeg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        iglooloft
+                    </h3>
+                </div>
+                <p class="card__details">м. Бауманская</p>
+                <p class="card__price">1300 р/час</p>
+            </div>
+        </a>
+        <a asp-page="/Lofts/Loft3" class="card link">
+            <div class="card__container">
+                <img class="card__image" src="~/images/test3.jpeg">
+                <div class="card__header">
+                    <h3 class="card__title">
+                        B69
+                    </h3>
+                </div>
+                <p class="card__details">м. Бауманская</p>
+                <p class="card__price">1300 р/час</p>
+            </div>
+        </a>
+    </div>
+</div>

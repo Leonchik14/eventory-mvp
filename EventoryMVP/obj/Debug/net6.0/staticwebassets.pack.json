@@ -1,0 +1,545 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/obj/Debug/net6.0/scopedcss/projectbundle/EventoryMVP.bundle.scp.css",
+      "PackagePath": "staticwebassets/EventoryMVP.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/body/body.css",
+      "PackagePath": "staticwebassets/css/blocks/body/body.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/button/__style/button__style_black.css",
+      "PackagePath": "staticwebassets/css/blocks/button/__style/button__style_black.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/button/__style/button__style_gray.css",
+      "PackagePath": "staticwebassets/css/blocks/button/__style/button__style_gray.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/button/__style/button__style_purple.css",
+      "PackagePath": "staticwebassets/css/blocks/button/__style/button__style_purple.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/button/button.css",
+      "PackagePath": "staticwebassets/css/blocks/button/button.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card-list/__container/card-list__container.css",
+      "PackagePath": "staticwebassets/css/blocks/card-list/__container/card-list__container.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card-list/card-list.css",
+      "PackagePath": "staticwebassets/css/blocks/card-list/card-list.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card/__container/card__container.css",
+      "PackagePath": "staticwebassets/css/blocks/card/__container/card__container.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card/__details/card__details.css",
+      "PackagePath": "staticwebassets/css/blocks/card/__details/card__details.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card/__header/card__header.css",
+      "PackagePath": "staticwebassets/css/blocks/card/__header/card__header.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card/__image/card__image.css",
+      "PackagePath": "staticwebassets/css/blocks/card/__image/card__image.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card/__price/card__price.css",
+      "PackagePath": "staticwebassets/css/blocks/card/__price/card__price.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card/__title/card__title.css",
+      "PackagePath": "staticwebassets/css/blocks/card/__title/card__title.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/card/card.css",
+      "PackagePath": "staticwebassets/css/blocks/card/card.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/container/container.css",
+      "PackagePath": "staticwebassets/css/blocks/container/container.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/footer/__container/footer__container.css",
+      "PackagePath": "staticwebassets/css/blocks/footer/__container/footer__container.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/footer/__item/__title/footer__item__title.css",
+      "PackagePath": "staticwebassets/css/blocks/footer/__item/__title/footer__item__title.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/footer/__item/footer__item.css",
+      "PackagePath": "staticwebassets/css/blocks/footer/__item/footer__item.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/footer/__items/footer__items.css",
+      "PackagePath": "staticwebassets/css/blocks/footer/__items/footer__items.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/footer/__section/footer__section.css",
+      "PackagePath": "staticwebassets/css/blocks/footer/__section/footer__section.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/footer/footer.css",
+      "PackagePath": "staticwebassets/css/blocks/footer/footer.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/icon-arrow/icon-arrow.css",
+      "PackagePath": "staticwebassets/css/blocks/icon-arrow/icon-arrow.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/icon-cross/icon-cross.css",
+      "PackagePath": "staticwebassets/css/blocks/icon-cross/icon-cross.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/icon-lofts/icon-lofts.css",
+      "PackagePath": "staticwebassets/css/blocks/icon-lofts/icon-lofts.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/icon-logo/icon-logo.css",
+      "PackagePath": "staticwebassets/css/blocks/icon-logo/icon-logo.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/item/__back/item__back.css",
+      "PackagePath": "staticwebassets/css/blocks/item/__back/item__back.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/item/__content/__description/item__content__description.css",
+      "PackagePath": "staticwebassets/css/blocks/item/__content/__description/item__content__description.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/item/__content/item__content.css",
+      "PackagePath": "staticwebassets/css/blocks/item/__content/item__content.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/item/__image/item__image.css",
+      "PackagePath": "staticwebassets/css/blocks/item/__image/item__image.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/item/item.css",
+      "PackagePath": "staticwebassets/css/blocks/item/item.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/link/link.css",
+      "PackagePath": "staticwebassets/css/blocks/link/link.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/__header/main__header.css",
+      "PackagePath": "staticwebassets/css/blocks/main/__header/main__header.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/__section-list/main__section-list.css",
+      "PackagePath": "staticwebassets/css/blocks/main/__section-list/main__section-list.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/__section/__header/main__section__header.css",
+      "PackagePath": "staticwebassets/css/blocks/main/__section/__header/main__section__header.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/__section/__image/main__section__image.css",
+      "PackagePath": "staticwebassets/css/blocks/main/__section/__image/main__section__image.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/__section/__title/main__section__title.css",
+      "PackagePath": "staticwebassets/css/blocks/main/__section/__title/main__section__title.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/__section/main__section.css",
+      "PackagePath": "staticwebassets/css/blocks/main/__section/main__section.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/__subtitle/main__subtitle.css",
+      "PackagePath": "staticwebassets/css/blocks/main/__subtitle/main__subtitle.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/__title/main__title.css",
+      "PackagePath": "staticwebassets/css/blocks/main/__title/main__title.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/main/main.css",
+      "PackagePath": "staticwebassets/css/blocks/main/main.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/menubar/__container/menubar__container.css",
+      "PackagePath": "staticwebassets/css/blocks/menubar/__container/menubar__container.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/menubar/menubar.css",
+      "PackagePath": "staticwebassets/css/blocks/menubar/menubar.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/nav/__container/nav__container.css",
+      "PackagePath": "staticwebassets/css/blocks/nav/__container/nav__container.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/nav/__item/nav__item.css",
+      "PackagePath": "staticwebassets/css/blocks/nav/__item/nav__item.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/nav/__items/nav__items.css",
+      "PackagePath": "staticwebassets/css/blocks/nav/__items/nav__items.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/nav/__link/nav__link.css",
+      "PackagePath": "staticwebassets/css/blocks/nav/__link/nav__link.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/nav/__menu/nav__menu.css",
+      "PackagePath": "staticwebassets/css/blocks/nav/__menu/nav__menu.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/blocks/nav/nav.css",
+      "PackagePath": "staticwebassets/css/blocks/nav/nav.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/images/.DS_Store",
+      "PackagePath": "staticwebassets/css/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/pages/index.css",
+      "PackagePath": "staticwebassets/css/pages/index.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/css/vendor/normalize.css",
+      "PackagePath": "staticwebassets/css/vendor/normalize.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/anatoly.jpg",
+      "PackagePath": "staticwebassets/images/anatoly.jpg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/arrow-small.svg",
+      "PackagePath": "staticwebassets/images/arrow-small.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/arrow.svg",
+      "PackagePath": "staticwebassets/images/arrow.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/close-window.svg",
+      "PackagePath": "staticwebassets/images/close-window.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/cross.svg",
+      "PackagePath": "staticwebassets/images/cross.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/dj.jpg",
+      "PackagePath": "staticwebassets/images/dj.jpg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/equipment.svg",
+      "PackagePath": "staticwebassets/images/equipment.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/evgen.jpg",
+      "PackagePath": "staticwebassets/images/evgen.jpg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/generator.jpg",
+      "PackagePath": "staticwebassets/images/generator.jpg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/helen.jpg",
+      "PackagePath": "staticwebassets/images/helen.jpg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/lofts.svg",
+      "PackagePath": "staticwebassets/images/lofts.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/logo.svg",
+      "PackagePath": "staticwebassets/images/logo.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/menu.svg",
+      "PackagePath": "staticwebassets/images/menu.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/sound.jpg",
+      "PackagePath": "staticwebassets/images/sound.jpg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/staff.svg",
+      "PackagePath": "staticwebassets/images/staff.svg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/test1.jpeg",
+      "PackagePath": "staticwebassets/images/test1.jpeg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/test2.jpeg",
+      "PackagePath": "staticwebassets/images/test2.jpeg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/images/test3.jpeg",
+      "PackagePath": "staticwebassets/images/test3.jpeg"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/flameimp/Dev/hse/eventory-mvp/EventoryMVP/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.EventoryMVP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.EventoryMVP.props",
+      "PackagePath": "build\\EventoryMVP.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.EventoryMVP.props",
+      "PackagePath": "buildMultiTargeting\\EventoryMVP.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.EventoryMVP.props",
+      "PackagePath": "buildTransitive\\EventoryMVP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

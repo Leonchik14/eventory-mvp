@@ -1,0 +1,8 @@
+.main__section-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 48px;
+}

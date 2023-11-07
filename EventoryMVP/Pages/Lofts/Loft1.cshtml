@@ -1,7 +1,23 @@
 ﻿@page
 @model EventoryMVP.Pages.Lofts.Loft1Model
 @{
-	ViewData["Title"] = "Loft1";
+    ViewData["Title"] = "Lofts";
 }
 
-<h1>Loft1</h1>
+<div class="item__back"><a asp-page="/Loft" class="button button__style_black link">Назад</a></div>
+<div class="item">
+    <div class="item__content">
+        <h1 class="main__title">INFOLOFTMSK</h1>
+        <p class="item__content__description">
+            Мультиформатное пространство: Площадка для ваших вечеринок, лекционный зал, концертный зал, кинозал.
+        </p>
+        <p class="item__content__description">
+            Москва, Малая Семеновская, 5с1
+        </p>
+        <p class="item__content__description">
+            Контакт администратора:
+        </p>
+        <a href="https://t.me/olegenov" class="button button__style_purple link">olegenov</a>
+    </div>
+    <img class="item__image" src="~/images/test1.jpeg">
+</div>
